@@ -8,7 +8,7 @@ This is a simple web application that fetches and displays current weather data 
 * Error Handling: Handles errors gracefully, such as when a city name is invalid or the API request fails.
 
 # Demo
-Try out the live version of the weather app here (insert your link).
+Try out the live version of the weather app here (https://glozog.github.io/weather-api-fetch/).
 
 # Technologies Used
 * HTML: For structuring the app's content.
